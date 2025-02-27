@@ -8,5 +8,5 @@ To check the producer and consumer please check their logs either in docker desk
 
 As the stream producer generates messages to the topic our consumer will slowly consume and write out to the logs.
 
-# Debuggin
+# Debugging
 Debug commands are hosted in kafka_commands.txt
